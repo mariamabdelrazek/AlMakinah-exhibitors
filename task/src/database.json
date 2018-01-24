@@ -1,0 +1,19 @@
+{
+	"exhibitors" : [
+		{
+			"id": 1,
+			"name": "CNBC News LTD.",
+			"list": "Galaxy Booth 5"
+		},
+		{
+			"id": 2,
+			"name": "SHENZhEN SECKET ELECTRICAL TECHNOLOGY CO.,LTD",
+			"list": "Galaxy Booth 5"
+		},
+		{
+			"id": 3,
+			"name": "Schneider Electric Co.LTD",
+			"list": "Galaxy Booth 5"
+		}
+	]
+}

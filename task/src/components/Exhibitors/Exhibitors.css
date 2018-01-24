@@ -1,0 +1,14 @@
+.clearfix::before,.clearfix::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.col-name{
+	float:left;
+}
+.col-delete{
+	float:right;
+}
+.col-list{
+	margin:0 auto;
+}
